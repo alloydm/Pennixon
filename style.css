@@ -1,0 +1,233 @@
+
+.ab
+{
+  border-radius: 100%;
+}
+.collapse navbar-collapse
+{
+  padding-bottom: 40px;
+}
+.col-md-6{
+  float: left;
+  width: 50%;
+  padding: 45px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color:#555; /* Set a background color */
+  color: #D9D9D9; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+  font-family: 'Arvo';
+}
+
+#myBtn:hover {
+  background-color: #554; /* Add a dark-grey background on hover */
+}
+.nav-link
+{
+
+}
+.pes
+{
+  font-family: "Arvo";
+  font-size: 1.3rem;
+  color: #fff;
+  /* font-weight: bold; */
+
+}
+.pes1
+{
+  font-family: "Arvo";
+  font-size: 1.3rem;
+  color:black;
+}
+
+.as
+{
+  font-family: 'Sacramento', cursive;
+  color: #fff;
+  font-weight: bold;
+  padding-top: 6px;
+  font-size: 2.5rem;
+}
+.as2
+{
+  font-family: 'Sacramento', cursive;
+  color: #fff;
+  font-weight: bold;
+  padding-top: 6px;
+  font-size: 4rem;
+}
+.as1
+{
+  font-family: 'Sacramento', cursive;
+  color: black;
+  font-weight: bold;
+  padding-top: 6px;
+  font-size: 2.5rem;
+}
+.ae
+{
+  background-color: #D9D9D9;
+
+}
+.asas
+{
+  font-family: 'Playball', cursive;
+  color: black;
+  text-align: center;
+}
+.asa
+{
+  font-family: 'Playball', cursive;
+  color: black;
+  text-align: center;
+}
+.about
+{
+    color: black;
+    background-color: #D9D9D9;
+  border-width: 5px;
+  /* padding-bottom: 40px; */
+  padding: 3% 15%;
+
+}
+.bk
+{
+/*  background-image: url('https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');*/
+background-color: #D9D9D9;
+}
+.imga1
+{
+/*background-image:url('https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');*/
+background-color: #D9D9D9;
+
+
+
+}
+.imga
+{
+  background-color: grey;
+  /* background-image: url("./images/paint.png"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* z-index: -1; */
+}
+
+hr
+{
+  color: #FFFFFF;
+}
+
+
+
+
+.er
+{
+  padding-left:100px;
+
+}
+.es
+{
+  padding-right:20%;
+  padding-left: 5%;
+  font-family:' Montserrat', sans-serif;
+
+}
+.bot3
+{
+  color:#555;
+}
+a{
+
+    color: #11999E;
+
+    font-family: 'Montserrat', sans-serif;
+
+    margin: 10px 20px;
+
+    text-decoration: none;
+
+  }
+
+    a:hover {
+
+    color: #EAF6F6;
+
+  }
+
+.bot1
+{
+  background-color: #fff;
+  text-align: center;
+  padding: 3% 3%;
+  font-family: 'Montserrat' , sans-serif;
+  color: #555;
+  font-size: 20px;
+}
+.bot2
+{
+  text-align: center;
+  color: #555;
+  background-color: #fff;
+}
+  .buto
+  {
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+    padding-left: 43%;
+  }
+
+  .b
+  {
+    margin-top: 15%;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;/*for centering the images*/
+    border-radius: 15%;
+
+  }
+  .hss
+  {
+    color:#fff;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 40%;
+    font-family: 'Montserrat' , sans-serif;
+    font-size: 3.5rem;
+    z-index: 1;
+    /* font-weight:inherit; */
+  }
+  .d
+  {
+    margin-top: 15%;
+
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;/*for centering the images*/
+    margin-bottom: 15%;
+    border-radius: 15%;
+  }
+  .bke
+  {
+    background-color: #D9D9D9;
+
+  }
